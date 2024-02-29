@@ -20,7 +20,7 @@ public class OwnerPlanDto {
 
     private  double price;
 
-    private  boolean planValidity;
+    private  int planValidity;
 
     private  boolean relationshipManager;
 
